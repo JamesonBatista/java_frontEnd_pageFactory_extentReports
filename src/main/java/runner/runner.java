@@ -26,7 +26,4 @@ public class runner {
         FrameWorkSystem.init();
     }
 
-    @AfterClass
-    public static void tearDown() throws FileNotFoundException {
-    }
 }
